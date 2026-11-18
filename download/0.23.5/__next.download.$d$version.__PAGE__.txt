@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/ds_site_next/_next/static/chunks/40co3yc8lq3sz.js","/ds_site_next/_next/static/chunks/2im7c515bo69p.js"],""]
+3:I[97367,["/ds_site_next/_next/static/chunks/40co3yc8lq3sz.js","/ds_site_next/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"chat-shell","children":["$","section",null,{"className":"chat-panel about-text","aria-label":"Версия 0.23.5","children":[["$","p",null,{"children":["$","$L2",null,{"href":"/download","children":"← Скачать"}]}],["$","h1",null,{"children":["Версия ","0.23.5"]}],["$","p",null,{"children":"2026-11-13"}],[["$","p","p-0",{"children":"В блоке «Школа» создано занятие «Рассказы > Фразовая речь > Времена года». Занятие предназначено для формирования умения составлять устный рассказ на основе набора пиктограмм и цветных картинок."}]]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-QGPEv8-QCCQ1YHKkFYfC"}
+5:null
